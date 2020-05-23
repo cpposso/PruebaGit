@@ -1,4 +1,5 @@
 mi primer archivo generador de huellas a patir de una semilla 
+preuba git
 esta es mi segunda linea
 
 Nombre de imagen               PID Nombre de sesi¢n N£m. de ses Uso de memor
